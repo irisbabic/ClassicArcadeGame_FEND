@@ -17,7 +17,7 @@ This project was built as part of a FEND course and the goal was to use OOP prac
 
 I learned to use OOP to create a game.
 
-## What did I do
+## What did I do?
 
 Most of the code was already provided by mentors. Most of the changes were made in app.js file and some minor changes
 in index.html and engine.js file.
